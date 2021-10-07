@@ -1,16 +1,17 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Software, Blockchain, Investing
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+### Software
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I am a [software developer](https://github.com/samuelvanderwaal) with a particular interest in Rust.
 
-What else do you need?
+### Blockchain
 
-### My story
+I have been following the blockchain space since 2010 and have invested in mulitple blockchain projects. I am currently exploring the [Solana ecosystem](https://solana.com/) and the [Metaplex NFT standard](https://docs.metaplex.com) in particular.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### Investing
+
+I am interested in investments outside of blockchains. Contact me if you think we would make a good team.
