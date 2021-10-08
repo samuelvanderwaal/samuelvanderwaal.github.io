@@ -1,4 +1,8 @@
-# Solana and Metaplex FAQ
+---
+layout: page
+title: Solana and Metaplex Candy Machine FAQ
+tags: [software, blockchain, Solana, Metaplex]
+---
 
 ## Solana
 
@@ -30,6 +34,16 @@ For mainnet:
  * https://figment.io/datahub/solana/
 
 
-## Metaplex
+## Metaplex Candy Machine
 
-Q: 
+Q: Why has the price for uploading NFTs to a candy machine changed?
+
+A: The developers changed uploads to start costing a fixed amount per file for Arweave. Currently that's 0.0023 SOL. 
+
+Q: How much does it cost to deploy X NFTs using Candy Machine?
+
+A: I've started a spreadsheet with reported costs from the Metaplex Discord users. See it [here](https://docs.google.com/spreadsheets/d/1tEHPIUN1GccLyTsd5PS0tAQMC6ihjq48jlPPz0FK9Yg/edit?usp=sharing).
+
+Q: What is the candy machine PDA for mainnet and is it the same for devnet?
+
+A: It's [cndyAnrLdpjq1Ssp1z8xxDsB8dxe7u4HL5Nxi2K5WXZ](https://solscan.io/account/cndyAnrLdpjq1Ssp1z8xxDsB8dxe7u4HL5Nxi2K5WXZ) for both.

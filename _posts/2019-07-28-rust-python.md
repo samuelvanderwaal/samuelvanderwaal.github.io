@@ -2,7 +2,7 @@
 layout: post
 title: Rust vs Python
 subtitle: Things aren't always as simple as I'd like.
-tags: [softare, rust, python]
+tags: [software, rust, python]
 ---
 
 I've been playing around Rust for a few months now both to learn the language itself and as a way to broaden my programming meta-skills. Prior to this I've primarily worked with Python--a dynamic and duck-typed language with a garbage collector, and Rust offers a stark contrast with its strongly typed no-garbage collection design. Finally, knowing a performant language like Rust should provide more tools in the tool belt for solving problems that are processing intensive. 

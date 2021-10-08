@@ -2,7 +2,7 @@
 layout: post
 title: The Zen is in Doubt
 subtitle: Many ways to skin a cat, or, code a program.
-tags: [softare, python]
+tags: [software, python]
 ---
 
 *"There should be one—and preferably only one—obvious way to do it."*
