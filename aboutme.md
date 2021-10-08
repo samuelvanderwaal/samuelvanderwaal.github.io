@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Software, Blockchain, Investing
+subtitle: Software, Blockchain, Investing, Lifting
 ---
 
 ### Software
@@ -14,4 +14,14 @@ I have been following the blockchain space since 2010 and have invested in mulit
 
 ### Investing
 
-I am interested in investments outside of blockchains. Contact me if you think we would make a good team.
+I am interested in investments both inside and outside of the blockchain space. Contact me if you think we would make a good team.
+
+### Lifting
+
+I have been powerlifting for 4-5 years but am not competitive at the state level. 
+
+My best lifts:
+
+Deadlift 475 lbs (215 kg)
+Squat 525 lbs (238 kg)
+Bench 300 lbs (136)
